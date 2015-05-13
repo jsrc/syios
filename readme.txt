@@ -1,2 +1,2 @@
 Git is a version control
-Git is good
+Git is very good
